@@ -6,6 +6,14 @@ This is the implementation available at the time of this writing in this pull re
 
 https://github.com/Electron-Cash/Electron-Cash/pull/964
 
+For a background on Zero Confirmation Forfeits, please read this document:
+
+https://gist.github.com/awemany/619a5722d129dec25abf5de211d971bd
+
+Or, alternative, this excellent article by Jonald Fyookball:
+
+http://archive.is/9z22x
+
 Preparations
 ============
 Check out the code from the pull request:
