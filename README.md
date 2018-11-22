@@ -10,7 +10,7 @@ For a background on Zero Confirmation Forfeits, please read this document:
 
 https://gist.github.com/awemany/619a5722d129dec25abf5de211d971bd
 
-Or, alternative, this excellent article by Jonald Fyookball:
+Or, alternatively, this excellent article by Jonald Fyookball:
 
 http://archive.is/9z22x
 
